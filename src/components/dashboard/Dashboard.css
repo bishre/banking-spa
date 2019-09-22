@@ -1,0 +1,9 @@
+.request-form input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: blue
+}
+
+.request-form input:focus {
+    border-color: green
+  }
